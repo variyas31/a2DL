@@ -59,10 +59,6 @@ Ensure to download and position the dataset correctly before executing the exper
 
       This command opens the Jupyter interface in your default browser. From there, navigate to the `a2DL` repository's location and open the relevant notebooks.
 
-### 4. **Execute the Experiments/Models**
-
-   (Provide comprehensive instructions for running the experiments/models.)
-
 ## 💌 Contact
 
 Should you have any questions or feedback, kindly contact [Variyas Nitin Singlaa](mailto:variyas31@gmail.com).
